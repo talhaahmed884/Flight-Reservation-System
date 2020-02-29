@@ -1,0 +1,5 @@
+﻿  AirLine.cpp
+C:\Users\talha\source\repos\Flight Reservation System\Flight Reservation System\Date.h(75,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\talha\source\repos\Flight Reservation System\Flight Reservation System\Time.h(67,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\talha\source\repos\Flight Reservation System\Flight Reservation System\AirLine.cpp(309,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Flight Reservation System.vcxproj -> C:\Users\talha\source\repos\Flight Reservation System\x64\Debug\Flight Reservation System.exe
